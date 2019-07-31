@@ -1,5 +1,5 @@
 # simple_basic_calculator
-Basic calculator with addition, subtraction, multiplication and division.
+Basic calculator with addition, subtraction, multiplication and division operation.
 
 ## Software Prerequisite
 1. Ubuntu Linux
